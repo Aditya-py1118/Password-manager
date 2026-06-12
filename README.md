@@ -8,7 +8,7 @@ The project uses a Caesar Cipher style encryption system where letters are shift
 
 This project was made to practice Python fundamentals and basic cryptography concepts.
 
-
+---
 
 ## Features
 
@@ -19,12 +19,13 @@ This project was made to practice Python fundamentals and basic cryptography con
 * View all stored accounts
 * Menu-driven terminal interface
 
-
+---
 
 ## Technologies Used
 
 * Python
 
+---
 
 ## Python Concepts Used
 
@@ -36,6 +37,7 @@ This project was made to practice Python fundamentals and basic cryptography con
 * Character Encoding using `ord()` and `chr()`
 * User Input Handling
 
+---
 
 ## Encryption Method
 
@@ -50,6 +52,7 @@ Encrypted Password : khoor123
 
 Each alphabet letter is shifted by `+3`.
 
+---
 
 ## Menu Options
 
@@ -60,6 +63,8 @@ Each alphabet letter is shifted by `+3`.
 5. Exit
 
 
+---
+
 ## Learning Outcome
 
 This project helped in understanding:
@@ -69,6 +74,9 @@ This project helped in understanding:
 * Dictionary data storage
 * String encryption and decryption
 * Modular programming using functions
-* 
+
+---
+
+## Author
 
 Aditya
